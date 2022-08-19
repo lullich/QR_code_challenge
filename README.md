@@ -22,8 +22,8 @@ This is my first project using HTML and CSS only to create a simple QR code comp
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/lullich/QR_code_challenge.git)
+- Live Site URL:(https://lullich.github.io/QR_code_challenge/)
 
 ## My process
 
