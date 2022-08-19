@@ -1,0 +1,40 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+    background-color: white;
+    width: 375px;
+    padding: 1rem;
+    border-radius: 1rem;
+    margin: 4rem auto;
+    box-sizing: border-box;
+}
+
+.qrcode {
+    border-radius: 0.8rem;
+    width: 100%;
+}
+
+.text {
+    font-family: "outfit", sans-serif;
+    text-align: center;
+}
+
+.text p {
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    font-weight: 400;
+    padding: 0 1.6rem;
+}
+
+.text h3 {
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    padding: 0 0.8rem;
+}
+
+.attribution {
+    text-align: center;
+}
+
